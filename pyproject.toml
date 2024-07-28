@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "<name>"
+version = "0.1.0"
+description = ""
+authors = ["Clemens Fiedler"]
+readme = "README.md"
+package-mode = false
